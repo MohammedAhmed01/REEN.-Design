@@ -1,0 +1,239 @@
+@media screen and (max-width: 1199px) {
+  .container {
+    width: 950px;
+  }
+  nav {
+    margin-left: 60px;
+  }
+  nav ul li {
+    margin-right: 30px;
+  }
+  .main-content-one {
+    padding: 230px 0;
+  }
+  .main-content-three-inside div {
+    width: 75%;
+    display: inline-block;
+  }
+  .main-content-three-inside img {
+    margin-right: 10px;
+  }
+  .main-content-four-inside img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .main-content-four-inside {
+    width: 48%;
+  }
+  .images img {
+    margin-right: 16px;
+    width: 23%;
+  }
+  #pagination {
+    margin: 0 0 100px 443px;
+  }
+  .main-content-five {
+    padding-bottom: 230px;
+  }
+}
+
+@media screen and (max-width: 979px) {
+  .container {
+    width: 750px;
+  }
+  #logo {
+    width: 130px;
+  }
+  nav ul li {
+    margin-right: 25px;
+  }
+  nav ul li a {
+    font-size: 10px;
+  }
+  nav {
+    margin-left: 60px;
+  }
+  .main-content-one {
+    padding: 150px 0;
+  }
+  .main-content-one h1 {
+    font-size: 48px;
+    line-height: 58px;
+  }
+  .main-content-one p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .main-content-one button {
+    padding: 15px 50px;
+  }
+  .main-content-two h2 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .main-content-two p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .main-content-three {
+    padding-bottom: 110px;
+  }
+  .main-content-three-inside {
+    width: 32%;
+  }
+  .main-content-three-inside img {
+    margin-right: 7px;
+  }
+  .main-content-four-heading h4 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .main-content-four-heading p {
+    font-size: 19px;
+    line-height: 30px;
+  }
+  .main-content-four-inside {
+    width: 48%;
+  }
+  .main-content-four-inside h5 {
+    margin: 25px 0px 12px 0;
+  }
+  .main-content-four-inside img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .images img {
+    margin-right: 16px;
+    width: 23%;
+  }
+  #pagination {
+    margin: 0 0 100px 342px;
+  }
+  .main-content-five h6 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .main-content-five button {
+    font-size: 15px;
+    padding: 15px 25px;
+  }
+  .main-content-five {
+    padding-bottom: 230px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    width: 96%;
+  }
+  header {
+    float: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  header .msg,
+  .phone {
+    margin-right: 0;
+  }
+  header .phone {
+    margin-left: 45px;
+  }
+  .header-one-right,
+  nav,
+  #search {
+    float: none;
+  }
+  .wrapper {
+    margin-bottom: 20px;
+  }
+  #logo {
+    float: none;
+    margin: 0 auto;
+    display: block;
+  }
+
+  nav,
+  #search {
+    margin-left: 0;
+    padding: 0;
+  }
+  nav ul li {
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+  }
+  #search {
+    float: none;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 15px;
+  }
+  .main-content-one {
+    padding: 115px 0;
+  }
+  .main-content-one h1 {
+    font-size: 25px;
+    line-height: 15px;
+  }
+  .main-content-one p {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .main-content-one button {
+    padding: 17px 90px;
+  }
+  .main-content-two h2 {
+    font-size: 22px;
+    line-height: 15px;
+  }
+  .main-content-two p {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .main-content-three-inside {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .main-content-four-heading h4 {
+    font-size: 22px;
+    line-height: 30px;
+    padding-top: 70px;
+  }
+  .main-content-four-heading p {
+    font-size: 16px;
+    line-height: 23px;
+  }
+  .main-content-four-inside {
+    width: 100%;
+    margin-bottom: 15px;
+    margin-right: 5px;
+  }
+  .images img {
+    width: 100%;
+    margin: 20px 0;
+  }
+  #pagination {
+    margin: 0 0 49px 123px;
+  }
+  .main-content-five {
+    padding: 100px 0;
+  }
+  .main-content-five h6 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .main-content-five p {
+    font-size: 15px;
+    line-height: 26px;
+  }
+  .main-content-five button {
+    font-size: 13px;
+    padding: 15px 113px;
+  }
+}
+/* 
+@media screen and (min-width: 980px) and (max-width: 1199px) {
+} */
